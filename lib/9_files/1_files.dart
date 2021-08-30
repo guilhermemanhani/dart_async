@@ -14,7 +14,7 @@ Future<void> main() async {
   // leitura linha assincrona
   // var fileLista = await file.readAsLines();
 
-  var listaNomes = ['Guns', 'Metallica', 'Slipknot'];
+  // var listaNomes = ['Guns', 'Metallica', 'Slipknot'];
   // var file1 = File('lib/9_files/files/file1.txt');
   // await file1.writeAsString('cademia do Flutter\n', mode: FileMode.append);
   // file1.writeAsStringSync('cademia do Flutter\n', mode: FileMode.append);
